@@ -1,0 +1,10 @@
+{
+  "description": "Streamline corporate headshot creation for HR managers by transforming employee selfies into polished, uniform images using AI technology.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
